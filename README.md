@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Muhammad Sohaib Ayub, I am a Ph.D. Computer Science Candiate and currently working in the domain of Data Analytics. 
+My name is Muhammad Sohaib Ayub, I am a Ph.D. Computer Science and working in the domain of Data Analytics. 
 
 ![GitHub Follow](https://img.shields.io/github/followers/sohaibayub.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/sohaibayub?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
